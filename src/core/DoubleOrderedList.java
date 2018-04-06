@@ -1,7 +1,5 @@
 package core;
 
-
-
 /**
  * DoubleOrderedList class - implements DoubleList<T> & OrderedListADT<T>
  * Used to add elements to a DoubleList
